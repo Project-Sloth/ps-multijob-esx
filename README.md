@@ -3,6 +3,12 @@
 
 A script designed with a sleek and modern design for being able to display your current jobs as well as switching between them.
 
+# ESX Version  Only
+* Compatible with ESX Legacy 1.8.5
+
+# QBCore Version
+* QBCore Version can be found [here](https://github.com/Project-Sloth/ps-multijob)
+
 # Features
 * Configurable ignore certain jobs. 
 * Configurable keybind to open the job menu - J by default. 
