@@ -23,10 +23,7 @@ end
 RegisterNUICallback('selectjob', function(data, cb)
     TriggerServerEvent("ps-multijob:changeJob", data["name"], data["grade"])
     local onDuty = false
-
-    -- TODO ESX
-
-    -- if data["name"] ~= "police" then onDuty = QBCore.Shared.Jobs[data["name"]].defaultDuty end
+        -- Need to do ESX job 
     cb({onDuty = onDuty})
 end)
 
@@ -44,15 +41,7 @@ end)
 
 RegisterNUICallback('toggleduty', function(data, cb)
     cb({})
-
-    -- TODO ESX
-
-    -- if Config.DenyDuty[PlayerJob] then
-    --     TriggerEvent("QBCore:Notify", 'Not allowed to use this station for clock-in.', 'error')
-    --     return
-    -- end
-    
-    -- TriggerServerEvent("QBCore:ToggleDuty")
+        -- Need to do ESX job onduty
 end)
 
 RegisterNetEvent('esx:setJob', function(newJob)
