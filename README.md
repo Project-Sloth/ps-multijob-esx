@@ -3,8 +3,9 @@
 
 A script designed with a sleek and modern design for being able to display your current jobs as well as switching between them.
 
-# ESX Version  Only
-* Compatible with ESX Legacy 1.8.5
+# BETA RELEASE - ESX Version  Only
+* Compatible with ESX Legacy 1.8.5 
+* Still need to work on the on Duty checks for ESX and will need some UI. 
 
 # QBCore Version
 * QBCore Version can be found [here](https://github.com/Project-Sloth/ps-multijob)
