@@ -5,7 +5,7 @@ A script designed with a sleek and modern design for being able to display your 
 
 # BETA RELEASE - ESX Version  Only
 * Compatible with ESX Legacy 1.8.5 
-* Still need to work on the on Duty checks for ESX and will need some UI. 
+* Still need to work on the on Duty checks for ESX.
 
 # QBCore Version
 * QBCore Version can be found [here](https://github.com/Project-Sloth/ps-multijob)
